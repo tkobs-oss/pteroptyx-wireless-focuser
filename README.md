@@ -1,1 +1,1 @@
-# -pteroptyx-wireless-focuser
+# pteroptyx-wireless-focuser
